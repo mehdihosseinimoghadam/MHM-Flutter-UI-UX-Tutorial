@@ -17,7 +17,7 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
   lottie: ^2.2.0
 ```
 
-# <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > [Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
+<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on this [Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
 
 
 For help getting started with Flutter development, view the
