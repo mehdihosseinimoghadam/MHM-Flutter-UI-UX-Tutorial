@@ -21,12 +21,12 @@ samples, guidance on mobile development, and a full API reference.
 ## Below you can find list of all apps available
 | APP | Description |<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" >| <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" height="40" width="40" > |
 | ------ | ------ |------|------|
-| Dropbox | [plugins/dropbox/README.md][PlDb] |||
-| GitHub | [plugins/github/README.md][PlGh] |||
-| Google Drive | [plugins/googledrive/README.md][PlGd] |||
-| OneDrive | [plugins/onedrive/README.md][PlOd] |||
-| Medium | [plugins/medium/README.md][PlMe] |||
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |||
+| Flutter Introduction Page | [plugins/dropbox/README.md][PlDb] |Link|Link|
+| Flutter Routing Map Leaflet | [plugins/github/README.md][PlGh] |LinkLink||
+| Flutter Text Field | [plugins/googledrive/README.md][PlGd] |Link|Link|
+| OneDrive | [plugins/onedrive/README.md][PlOd] |Link|Link|
+| Medium | [plugins/medium/README.md][PlMe] |Link|Link|
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |Link|Link|
 
 
 
