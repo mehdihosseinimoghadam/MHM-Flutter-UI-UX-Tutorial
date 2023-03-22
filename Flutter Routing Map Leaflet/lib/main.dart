@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       var url = Uri.parse('http://router.project-osrm.org/route/v1/driving/$v2,$v1;$v4,$v3?steps=true&annotations=true&geometries=geojson&overview=full');
                       var response = await http.get(url);
                       print(response.body);
-                      setState(() {                                                      //        London SW1A 1AA             Tower Bridge Rd, London SE1 2UP
+                      setState(() {                                                     
                         routpoints = [];
                         var ruter = jsonDecode(response.body)['routes'][0]['geometry']['coordinates'];
                         for(int i=0; i< ruter.length; i++){
