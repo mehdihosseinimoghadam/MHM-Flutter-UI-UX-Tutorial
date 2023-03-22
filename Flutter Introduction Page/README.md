@@ -17,12 +17,15 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
   lottie: ^2.2.0
 ```
 
-<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on this [Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
+<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Follow me on:
+|<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" >|<img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" height="40" width="40" >|<img
+src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" >|
+| ------ | ------ |------|
+|[Link]()|[Link]()|[Link]()|
+
 
 
 ![Alt Text](https://github.com/mehdihosseinimoghadam/MHM-Flutter/blob/main/Flutter%20Introduction%20Page/flutter%20introduction%20page%201.png)
