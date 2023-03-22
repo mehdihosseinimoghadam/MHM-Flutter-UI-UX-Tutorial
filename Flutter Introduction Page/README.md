@@ -17,8 +17,8 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
   lottie: ^2.2.0
 ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > [Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
