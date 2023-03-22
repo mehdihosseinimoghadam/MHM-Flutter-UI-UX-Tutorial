@@ -4,11 +4,18 @@
 
 
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Introduction Screen allows you to have a screen on an app's first launch to, for example, explain your app. This widget is very customizable with a great design
 
-A few resources to get you started if this is your first Flutter project:
+# Used Packages
+```sh
+  cupertino_icons: ^1.0.2
+  introduction_screen: ^3.1.6
+  flutter_onboarding_slider: ^1.0.8
+  animated_splash_screen: ^1.3.0
+  lottie: ^2.2.0
+```
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
