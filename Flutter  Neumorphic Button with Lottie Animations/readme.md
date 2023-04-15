@@ -13,10 +13,8 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
 # Used Packages
 ```sh
   cupertino_icons: ^1.0.2
-  introduction_screen: ^3.1.6
-  flutter_onboarding_slider: ^1.0.8
-  animated_splash_screen: ^1.3.0
   lottie: ^2.2.0
+  introduction_screen: ^3.1.6
 ```
 
 <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
