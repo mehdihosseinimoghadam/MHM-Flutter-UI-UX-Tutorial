@@ -17,7 +17,7 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
   introduction_screen: ^3.1.6
 ```
 
-<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
+<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=kskoZJgpsBU)
 
 
 ## Follow me & Buy me a Cofee:
