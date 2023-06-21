@@ -34,7 +34,7 @@ flutter:
   uses-material-design: true
 ```
 
-<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=D-vmDc0suxk)
+<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=Tg4VtUGlgkA)
 
 
 ## Follow me & Buy me a Cofee:
